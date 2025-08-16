@@ -2,9 +2,8 @@
 
 1. Create a new branch for your changes: `git checkout -b first-tasks`
 2. After you finish each task, add your changes: `git add .`
-4. Then, commit your changes: `git commit -m "Completed task 1"`
-5. Once all tasks are done, push your branch: `git push origin first-tasks`
-
+3. Then, commit your changes: `git commit -m "Completed task 1"`
+4. Repeat steps 2 and 3 for all tasks
 
 ---
 
